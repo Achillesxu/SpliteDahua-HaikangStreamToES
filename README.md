@@ -1,0 +1,1 @@
+The project's aim is demux the media stream of Dahua/Haikang SDK output to get vedio&audio ES.
